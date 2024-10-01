@@ -1,0 +1,7 @@
+SAVED_OBJECTS_ATTRIBUTES = 'attributes'
+SAVED_OBJECTS_TITLE = 'title'
+SAVED_OBJECTS_REFERENCES = 'references'
+SAVED_OBJECTS_ID = 'id'
+SAVED_OBJECTS_UPDATED_AT = 'updated_at'
+
+DDB_TABLE_NAME = 'MetadataStore'
